@@ -1,0 +1,24 @@
+{
+  "name": "react_autocomplete_example",
+  "version": "1.0.0",
+  "description": "example",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "react_autocomplete_example"
+  },
+  "author": "bill sun",
+  "license": "ISC",
+  "dependencies": {
+    "gulp-react-easy": "^0.1.9",
+    "react": "^16.2.0",
+    "react-autocomplete": "^1.7.2",
+    "react-dom": "^16.2.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
